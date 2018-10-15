@@ -1,0 +1,10 @@
+[reddit_creds]
+client_id = client id
+client_secret = client secret
+user_name = reddit username
+password = reddit password
+user_agent = Paotester - Post Scrubber
+
+[paotester]
+message = Text which will replace all existing reddit posts
+
